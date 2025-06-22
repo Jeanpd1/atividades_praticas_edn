@@ -16,7 +16,7 @@ Os exercícios estão organizados em arquivos Python (`.py`) individuais, seguin
 * **Nome do Arquivo:** `Número.py` (ex: `1.py`).
 * **Conteúdo:** O enunciado completo do exercício está comentado no topo de cada script, seguido diretamente pelo código da solução.
 
-## ✅ Atividades
+## Atividades
 
 Os exercícios estão organizados em pastas, representando cada módulo ou lista de atividades práticas.
 
@@ -38,7 +38,7 @@ Os exercícios estão organizados em pastas, representando cada módulo ou lista
 | 3 | Calculadora de Média Escolar | [`3.py`](./atividade_pratica_2/3.py) |
 | 4 | Calculadora de Consumo de Combustível | [`4.py`](./atividade_pratica_2/4.py) |
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 **Para visualizar uma atividade específica:**
 1.  Use a tabela acima para navegar diretamente para o arquivo de interesse.

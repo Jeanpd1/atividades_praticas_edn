@@ -22,21 +22,57 @@ Os exercícios estão organizados em pastas, representando cada módulo ou lista
 
 ### Atividade Prática 1
 
-| Nº | Atividade | Arquivo |
-| :--: | :--- | :--- |
-| 1 | Programa de Saudação | [`1.py`](./atividade_pratica_1/1.py) |
-| 2 | Calculadora de Soma | [`2.py`](./atividade_pratica_1/2.py) |
-| 3 | Calculadora de Volume | [`3.py`](./atividade_pratica_1/3.py) |
-| 4 | Calculadora de Preço Total | [`4.py`](./atividade_pratica_1/4.py) |
+| Nº   | Atividade                  | Arquivo                                    |
+| :--- | :------------------------- | :----------------------------------------- |
+| 1    | Programa de Saudação       | [`1.py`](./atividade_pratica_1/1.py)       |
+| 2    | Calculadora de Soma        | [`2.py`](./atividade_pratica_1/2.py)       |
+| 3    | Calculadora de Volume      | [`3.py`](./atividade_pratica_1/3.py)       |
+| 4    | Calculadora de Preço Total | [`4.py`](./atividade_pratica_1/4.py)       |
 
 ### Atividade Prática 2
 
-| Nº | Atividade | Arquivo |
-| :--: | :--- | :--- |
-| 1 | Conversor de Moeda | [`1.py`](./atividade_pratica_2/1.py) |
-| 2 | Calculadora de Desconto | [`2.py`](./atividade_pratica_2/2.py) |
-| 3 | Calculadora de Média Escolar | [`3.py`](./atividade_pratica_2/3.py) |
-| 4 | Calculadora de Consumo de Combustível | [`4.py`](./atividade_pratica_2/4.py) |
+| Nº   | Atividade                         | Arquivo                                    |
+| :--- | :-------------------------------- | :----------------------------------------- |
+| 1    | Conversor de Moeda                | [`1.py`](./atividade_pratica_2/1.py)       |
+| 2    | Calculadora de Desconto           | [`2.py`](./atividade_pratica_2/2.py)       |
+| 3    | Calculadora de Média Escolar      | [`3.py`](./atividade_pratica_2/3.py)       |
+| 4    | Calculadora de Consumo de Combustível | [`4.py`](./atividade_pratica_2/4.py) |
+
+### Atividade Prática 3
+
+| Nº   | Atividade                            | Arquivo                                    |
+| :--- | :----------------------------------- | :----------------------------------------- |
+| 1    | Classificador de Idade               | [`1.py`](./atividade_pratica_3/1.py)       |
+| 2    | Calculadora de IMC                   | [`2.py`](./atividade_pratica_3/2.py)       |
+| 3    | Conversor de Temperatura             | [`3.py`](./atividade_pratica_3/3.py)       |
+| 4    | Verificador de Ano Bissexto          | [`4.py`](./atividade_pratica_3/4.py)       |
+
+### Atividade Prática 4
+
+| Nº   | Atividade                           | Arquivo                                    |
+| :--- | :---------------------------------- | :----------------------------------------- |
+| 1    | Calculadora com Tratamento de Erros | [`1.py`](./atividade_pratica_4/1.py)       |
+| 2    | Registro de Notas com Validação     | [`2.py`](./atividade_pratica_4/2.py)       |
+| 3    | Verificador de senhas fortes        | [`3.py`](./atividade_pratica_4/3.py)       |
+| 4    | Contador de números pares/ímpares   | [`4.py`](./atividade_pratica_4/4.py)       |
+
+### Atividade Prática 5
+
+| Nº   | Atividade                                    | Arquivo                                    |
+| :--- | :------------------------------------------- | :----------------------------------------- |
+| 1    | Calculadora de gorjetas                      | [`1.py`](./atividade_pratica_5/1.py)       |
+| 2    | Verificador de palíndromos                   | [`2.py`](./atividade_pratica_5/2.py)       |
+| 3    | Conversor de idade (anos para dias)          | [`3.py`](./atividade_pratica_5/3.py)       |
+
+### Atividade Prática 6
+
+| Nº   | Atividade                                     | Arquivo                                    |
+| :--- | :-------------------------------------------- | :----------------------------------------- |
+| 1    | Gerador de senha aleatória                    | [`1.py`](./atividade_pratica_6/1.py)       |
+| 2    | Gerador de usuário aleatório                  | [`2.py`](./atividade_pratica_6/2.py)       |
+| 3    | Consulta endereços pelo CEP                   | [`3.py`](./atividade_pratica_6/3.py)       |
+| 4    | Consulta de cotação de moedas                 | [`4.py`](./atividade_pratica_6/4.py)       |
+
 
 ## Como Utilizar
 
@@ -53,7 +89,7 @@ Os exercícios estão organizados em pastas, representando cada módulo ou lista
     ```bash
     cd atividades_praticas_edn
     ```
-3.  Execute o arquivo Python que desejar:
+3.  Execute o arquivo Python que desejar, navegando até a pasta correta:
     ```bash
-    python "1-Conversor de Moeda.py"
+    python ./atividade_pratica_6/2.py
     ```
